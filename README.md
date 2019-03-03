@@ -1,4 +1,4 @@
-# My First react aplication
+# My first react aplication
 
 ## Description
 
